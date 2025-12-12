@@ -1,5 +1,6 @@
-datastructures = datası kaydedilip, düzenlenebilen isimli konum bilgisi
-algorithms = problemi çözmek için uygulanan adımlar bütünü
+datastructures = datası kaydedilip, düzenlenebilen isimli konum bilgisidir
+
+algorithms = problemi çözmek için uygulanan adımlar bütünüdür
 
 peki neden kullanırız?
 bilgisayar hafızasını ve zamanı verimli kullanmak için.
